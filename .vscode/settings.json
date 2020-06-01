@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/joselmocabral/anaconda3/envs/django-sample/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
